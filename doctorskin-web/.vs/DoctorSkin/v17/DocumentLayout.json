@@ -1,0 +1,509 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\haro\\cn.net_project\\doctorskin-web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|d:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\models\\viewmodel\\medicinesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\models\\viewmodel\\medicinesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\models\\viewmodel\\userfeedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\models\\viewmodel\\userfeedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\models\\banners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\models\\banners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\models\\viewmodel\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\models\\viewmodel\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\models\\role\\userrolesmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\models\\role\\userrolesmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\models\\role\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\models\\role\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\models\\role\\rolemasters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\models\\role\\rolemasters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\controllers\\voucherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\controllers\\voucherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\controllers\\servicesdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\controllers\\servicesdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\controllers\\blogdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\controllers\\blogdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\areas\\admin\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\areas\\admin\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|D:\\haro\\cn.net_project\\doctorskin-web\\doctorskin\\models\\repfeedbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E736C1-8D82-4684-A7BC-007E6C163E10}|DoctorSkin\\DoctorSkin.csproj|solutionrelative:doctorskin\\models\\repfeedbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Views\\Doctors\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Views\\Doctors\\Create.cshtml",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Views\\Doctors\\Create.cshtml",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Views\\Doctors\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T14:41:16.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "DoctorSkin\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:20:27.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorSkin\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "DoctorSkin\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T17:20:14.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "DoctorSkin\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAUwAABAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:58:02.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\Doctors.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Models\\Doctors.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\Doctors.cs",
+              "RelativeToolTip": "DoctorSkin\\Models\\Doctors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:57:49.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Models\\Users.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\Users.cs",
+              "RelativeToolTip": "DoctorSkin\\Models\\Users.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:57:31.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicinesModel.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\ViewModel\\MedicinesModel.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Models\\ViewModel\\MedicinesModel.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\ViewModel\\MedicinesModel.cs",
+              "RelativeToolTip": "DoctorSkin\\Models\\ViewModel\\MedicinesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:45:35.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAkwLwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:42:59.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAACBjwEwAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T17:24:29.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoctorSkin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoctorSkin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAH0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T08:04:06.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserFeedBackViewModel.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\ViewModel\\UserFeedBackViewModel.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Models\\ViewModel\\UserFeedBackViewModel.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\ViewModel\\UserFeedBackViewModel.cs",
+              "RelativeToolTip": "DoctorSkin\\Models\\ViewModel\\UserFeedBackViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:57:28.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Banners.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\Banners.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Models\\Banners.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\Banners.cs",
+              "RelativeToolTip": "DoctorSkin\\Models\\Banners.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:57:27.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAANUAAAAAAAAAAAAjwK4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T16:51:12.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsViewModel.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\ViewModel\\ProductsViewModel.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Models\\ViewModel\\ProductsViewModel.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\ViewModel\\ProductsViewModel.cs",
+              "RelativeToolTip": "DoctorSkin\\Models\\ViewModel\\ProductsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:57:26.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRolesMappings.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\Role\\UserRolesMappings.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Models\\Role\\UserRolesMappings.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\Role\\UserRolesMappings.cs",
+              "RelativeToolTip": "DoctorSkin\\Models\\Role\\UserRolesMappings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:57:24.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\Role\\UserRoles.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Models\\Role\\UserRoles.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\Role\\UserRoles.cs",
+              "RelativeToolTip": "DoctorSkin\\Models\\Role\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:57:22.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoleMasters.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\Role\\RoleMasters.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Models\\Role\\RoleMasters.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\Role\\RoleMasters.cs",
+              "RelativeToolTip": "DoctorSkin\\Models\\Role\\RoleMasters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:57:21.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VouchersController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\VouchersController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Controllers\\VouchersController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\VouchersController.cs",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Controllers\\VouchersController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:57:03.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:49:49.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAQwCYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:42:43.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:49:04.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:48:24.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Controllers\\DefaultController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:55:03.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServicesDetailsController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\ServicesDetailsController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Controllers\\ServicesDetailsController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\ServicesDetailsController.cs",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Controllers\\ServicesDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:49:09.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:55:26.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:55:21.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Controllers\\BookingsController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Controllers\\BookingsController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:52:15.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BlogDetailsController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\BlogDetailsController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Controllers\\BlogDetailsController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\BlogDetailsController.cs",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Controllers\\BlogDetailsController.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:55:07.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BillsController.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\BillsController.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Areas\\Admin\\Controllers\\BillsController.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Areas\\Admin\\Controllers\\BillsController.cs",
+              "RelativeToolTip": "DoctorSkin\\Areas\\Admin\\Controllers\\BillsController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:49:13.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RepFeedbacks.cs",
+              "DocumentMoniker": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\RepFeedbacks.cs",
+              "RelativeDocumentMoniker": "DoctorSkin\\Models\\RepFeedbacks.cs",
+              "ToolTip": "D:\\haro\\cn.net_project\\doctorskin-web\\DoctorSkin\\Models\\RepFeedbacks.cs",
+              "RelativeToolTip": "DoctorSkin\\Models\\RepFeedbacks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:45:21.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
